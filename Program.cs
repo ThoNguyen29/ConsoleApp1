@@ -96,6 +96,8 @@ namespace ConsoleApp1
         }
         static void BaiTap8()
         { }
+        static void BaiTap9()
+        { }
 
 
     }

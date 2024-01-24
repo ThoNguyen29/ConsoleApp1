@@ -94,7 +94,8 @@ namespace ConsoleApp1
             }
             Console.ReadKey();
         }
-
+        static void BaiTap8()
+        { }
 
 
     }
